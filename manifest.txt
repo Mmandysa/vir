@@ -1,3 +1,3 @@
 3.0.0
 8e2518eb532cdc374d59288d0cd08f89b16c9506a48df8637dcb9fa332c0cefd
-https://example.com/mycurl/mycurl-3.0.0-x64.exe
+https://mmandysa.github.io/vir/mycurl-3.0.0-x64.exe
